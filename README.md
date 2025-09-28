@@ -26,6 +26,65 @@ const royxlab = {
 };
 ```
 
+## 🎯 Services I Offer
+
+<div align="center">
+
+### Transform Your Business with AI-Powered Solutions
+
+</div>
+
+<table>
+<tr>
+<td width="33%">
+
+### 🤖 **AI / ML Development**
+Build intelligent systems
+
+- Multi-Agent Systems
+- RAG Architecture
+- Voice AI Integration
+- Custom LLM Solutions
+- AI Workflow Automation
+
+</td>
+<td width="33%">
+
+### 💻 **Full-Stack Development**
+End-to-end application development
+
+- React/Next.js Applications
+- Node.js/Python Backends
+- API Development
+- Database Architecture
+- DevOps 
+
+</td>
+<td width="33%">
+
+### 🚀 **Consulting & Architecture**
+Strategic technology guidance
+
+- System Architecture Design
+- AI Integration Strategy
+- Performance Optimization
+- Code Review & Audits
+- Technical Mentorship
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📊 Why Choose My Services?
+
+| ✅ **100+ AI Systems Deployed** | ⚡ **80% Automation Efficiency** | 🎯 **99.9% System Uptime** | 🌟 **24/7 Support** |
+|:---:|:---:|:---:|:---:|
+| Production-ready solutions | Reduce manual work dramatically | Enterprise-grade reliability | Always available for clients |
+
+</div>
+
 ## 🔥 Featured Projects
 
 <table>
@@ -182,7 +241,7 @@ Chrome extension for live coding assistance with multi-LLM support.
 <!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=royxlab&theme=react-dark&hide_border=false&area=true) -->
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=royxlab&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=royxlab&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=-1)
 
 </div>
 
@@ -190,12 +249,11 @@ Chrome extension for live coding assistance with multi-LLM support.
 
 <div align="center">
 
+### Ready to Transform Your Business with AI?
+
+📧 **Contact me for a free consultation** | 💼 **View my portfolio** | 🤝 **Let's collaborate**
+
 I'm always excited to work on innovative AI projects and help businesses automate their workflows!
-
-### Services I Offer
-
-✨ Custom AI Agent Development | 🚀 Full-Stack Applications | 📱 Mobile Development  
-🤖 Workflow Automation | 🧠 AI Consulting | 💡 System Architecture
 
 </div>
 
