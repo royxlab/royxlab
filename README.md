@@ -151,7 +151,7 @@ A powerful AI-powered image editing application built with Next.js 14, featuring
 
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp"/>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=royxlab&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=royxlab&theme=dark&hide_border=true" alt="GitHub Streak" />
   <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
 
