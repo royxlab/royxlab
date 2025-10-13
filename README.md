@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=AI-Powered+Full-Stack+Developer;100%2B+Production+AI+Systems+Deployed;Multi-Agent+Systems+Expert)](https://git.io/typing-svg)
+<h1 align="center">Welcome 👋</h1>
 
-<h1 align="center">Multi-Agent, RAG System, AI Web App developer</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=AI-Powered+Full-Stack+Developer;100%2B+Production+AI+Systems+Deployed;Multi-Agent+Systems+Expert)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,80 +10,29 @@
 
 I'm a **Full-Stack Developer** specializing in **AI-powered solutions**. I transform complex business challenges into intelligent, automated systems that deliver real value.
 
+## 🎯 What I Offer
+
+#### ✅ **AI-powered application development (Multi-Agents, Voice Agents, RAG Systems)**
+#### ✅ **Full-stack web and mobile development**
+#### ✅ **Business process automation and workflow optimization**
+#### ✅ **API design, integration, and microservices architecture**
+
 ```javascript
-const royxlab = {
+const summary = {
     role: "AI-Powered Full-Stack Developer",
     experience: "8+ years",
-    specialization: ["Multi-Agent Systems", "Voice AI", "RAG Architecture", "Full-Stack Development"],
+    specialization: ["AI Solution", "Business Automation", "Full-Stack Development", "API Builder"],
     achievements: {
         aiSystemsDeployed: "100+",
-        githubStars: "16+",
         openSourceProjects: "50+",
-        clientsSatisfied: "80+"
+        clientsSatisfied: "80+",
+        productionUptime: "99.9%",
+        automationEfficiency: "80% reduction in manual work",
     },
     currentlyLearning: "Advanced Multi-Agent Communication Patterns",
     funFact: "I can make AI agents talk to each other better than humans do! 🤖"
 };
 ```
-
-## 🎯 Services I Offer
-
-<div align="center">
-
-### Transform Your Business with AI-Powered Solutions
-
-</div>
-
-<table>
-<tr>
-<td width="33%">
-
-### 🤖 **AI / ML Development**
-Build intelligent systems
-
-- Multi-Agent Systems
-- RAG Architecture
-- Voice AI Integration
-- Custom LLM Solutions
-- AI Workflow Automation
-
-</td>
-<td width="33%">
-
-### 💻 **Full-Stack Development**
-End-to-end application development
-
-- React/Next.js Applications
-- Node.js/Python Backends
-- API Development
-- Database Architecture
-- DevOps 
-
-</td>
-<td width="33%">
-
-### 🚀 **Consulting & Architecture**
-Strategic technology guidance
-
-- System Architecture Design
-- AI Integration Strategy
-- Performance Optimization
-- Code Review & Audits
-- Technical Mentorship
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 📊 Why Choose My Services?
-
-| ✅ **100+ AI Systems Deployed** | ⚡ **80% Automation Efficiency** | 🎯 **99.9% System Uptime** | 🌟 **24/7 Support** |
-|:---:|:---:|:---:|:---:|
-| Production-ready solutions | Reduce manual work dramatically | Enterprise-grade reliability | Always available for clients |
-
-</div>
 
 ## 🔥 Featured Projects
 
@@ -91,51 +40,22 @@ Strategic technology guidance
 <tr>
 <td width="50%">
 
-### 🎙️ [WorkFlow AI](https://github.com/royxlab/WorkFlow-AI)
-**World's First Voice-Controlled Automation**
+### [RAG Agent](https://github.com/royxlab/RAG-agent)
+**Asistec Agentic RAG Chatbot**
 
-Revolutionary platform that generates N8N workflows using voice commands. Powered by Claude Sonnet 4 and ElevenLabs.
+The RAG system designed for architecture and engineering professionals to query technical and regulatory PDF documents using natural language.
 
-**Tech:** `Next.js` `LangGraph` `Claude` `ElevenLabs`  
-**Live:** [workflowweb.vercel.app](https://workflowweb.vercel.app)
-
-&nbsp;
-
-</td>
-<td width="50%">
-
-### 🤖 [OpenAgent](https://github.com/royxlab/OpenAgent)
-**Advanced AI Development Assistant**
-
-22,350+ lines of production TypeScript with 40% token optimization and persistent memory systems.
-
-**Tech:** `TypeScript` `LangChain` `SQLite` `ReAct`  
-**Architecture:** 29-module system
-
-&nbsp;
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 [Context Engine MCP](https://github.com/royxlab/Context-Engine-MCP-Server)
-**NPM Package for AI Context**
-
-Production tool supporting 15+ languages with hierarchical agent architecture.
-
-**Tech:** `Node.js` `TypeScript` `MCP Protocol`  
-**Install:** `npm install context-engine-mcp`
+**Tech:** `FastAPI` `Germini` `OpenAI` `LangChain` `LangGraph` `langmem` `Supabase` `Pinecone` `Mem0` `PyPDF`
 
 &nbsp;
 
 </td>
 <td width="50%">
 
-### 💬 [OpenGPT](https://github.com/royxlab/OpenGPT)
+### [OpenGPT](https://github.com/royxlab/OpenGPT)
 **Open-Source ChatGPT Clone**
 
-Multi-model chat platform with BYOK architecture for privacy and cost optimization.
+The opensource, self-hosted ChatGPT alternative with full privacy, local memory, and BYO OpenAI API key.
 
 **Tech:** `Next.js` `OpenAI` `Anthropic` `Gemini`  
 **Live:** [opengpt-royxlab.vercel.app](https://opengpt-royxlab.vercel.app)
@@ -147,26 +67,25 @@ Multi-model chat platform with BYOK architecture for privacy and cost optimizati
 <tr>
 <td width="50%">
 
-### 📱 [WhatsApp AI Bot](https://github.com/royxlab/WhatsApp-Bot)
-**Business Automation Platform**
+### [AI Book Creator Tool](https://github.com/royxlab/AI-Book-Creator-Tool)
+**AI Book Creator Tool**
 
-Handles 1000+ daily conversations with AI responses and real-time analytics.
+This project is a tool that automatically creates complete books with chapters and stories. Users can choose the type of book they want, give it a title, and pick a writing style.
 
-**Tech:** `Node.js` `WhatsApp.js` `OpenAI` `Supabase`  
-**Scale:** Multi-tenant, 99.9% uptime
+**Tech:** `TypeScript` `Next.js` `Tailwind CSS` `OpenAI GPT-4o` `Node.js`
 
 &nbsp;
 
 </td>
 <td width="50%">
 
-### 👻 [StealthCoder](https://github.com/royxlab/StealthCoder)
-**Invisible Interview Assistant**
+### [Gemma AI](https://github.com/royxlab/gemma-ai)
+**Premium Image Editing Application**
 
-Chrome extension for live coding assistance with multi-LLM support.
+A powerful AI-powered image editing application built with Next.js 14, featuring Gemini Flash AI integration for advanced image manipulation.
 
-**Tech:** `TypeScript` `Chrome API` `Multi-LLM`  
-**Features:** Stealth UI, Secret shortcuts
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` `Clerk Auth` `Google Gemini AI` `Radix UI` `Framer Motion`  
+**Live:** [gemma-ai-beta.vercel.app](https://gemma-ai-beta.vercel.app)
 
 &nbsp;
 
@@ -263,6 +182,6 @@ I'm always excited to work on innovative AI projects and help businesses automat
 
 ### Thanks for visiting! 👋
 
-<img src="https://komarev.com/ghpvc/?username=royxlab&label=Profile%20views&color=0e75b6&style=flat" alt="profile view" />
+<img src="https://komarev.com/ghpvc/?username=unu&label=Profile%20views&color=0e75b6&style=flat" alt="profile view" />
 
 </div>
