@@ -151,11 +151,12 @@ A powerful AI-powered image editing application built with Next.js 14, featuring
 
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royxlab&theme=dark&hide_border=true"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=royxlab&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
   <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
-  
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=royxlab&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=royxlab&theme=react&hide_border=false&include_all_commits=true&count_privat
+e=true&layout=compact) -->
 
 <!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=royxlab&theme=react-dark&hide_border=false&area=true) -->
 
