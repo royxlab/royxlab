@@ -171,7 +171,7 @@ e=true&layout=compact) -->
 
 ### Ready to Transform Your Business with AI?
 
-📧 **Contact me for a free consultation** | 💼 **View my portfolio** | 🤝 **Let's collaborate**
+📧 **Contact me for a free consultation** | 🤝 **Let's collaborate**
 
 I'm always excited to work on innovative AI projects and help businesses automate their workflows!
 
