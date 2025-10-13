@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Welcome 👋</h1>
+<h1 align="center">Welcome to my github! 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=AI-Powered+Full-Stack+Developer;100%2B+Production+AI+Systems+Deployed;Multi-Agent+Systems+Expert)](https://git.io/typing-svg)
 
